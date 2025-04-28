@@ -1,12 +1,12 @@
 ---
-name: Guantes estaticos
+name: pinamar
 description: Lo último en tecnología deportiva.
 category: Futurista
 price: 29345
-slug: guantes-estaticos
+slug: pinamar
 tags: [home]
 sizes: [9,13,15,18]
-image: /assets/images/products/guantes-estaticos1.jpg
+image: /assets/images/products/pinamar.jpeg
 ---
 
 ## Tecnologia

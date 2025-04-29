@@ -55,16 +55,7 @@ const Sucursales = () => (
   <Main meta={<Meta title="Lorem ipsum" description="Lorem ipsum" />}>
     <Content>
       <div>
-        <Sucursal lat={51.511300} lng={-0.140770}  nombre="Londres" direccion="Clifford St 33, Savile Row, Londres" horarios={horarios} ></Sucursal>
-      </div>
-      <div>
-        <Sucursal lat={-34.471440} lng={-58.509490} nombre="Buenos Aires" direccion="Leandro Alem 350, San Isidro, Buenos Aires" horarios={horarios} ></Sucursal>
-      </div>
-      <div>
-        <Sucursal lat={35.55164623} lng={139.73149155} nombre="Tokio" direccion="2 Chome, Haginaka, Tokio, Japan" horarios={horarios} ></Sucursal>
-      </div>
-      <div>
-        <Sucursal lat={25.840311052548} lng={-80.217030704934} nombre="Miami" direccion="NW 12th Av, Miami, Florida, USA" horarios={horarios} ></Sucursal>
+        <Sucursal lat={-34.471440} lng={-58.509490} nombre="Buenos Aires" direccion="Diego Palma 114, San Isidro, Buenos Aires" horarios={horarios} ></Sucursal>
       </div>
     </Content>
   </Main>

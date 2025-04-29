@@ -1,10 +1,10 @@
 ---
-name: pinamar
+name: Grip
 description: Lo último en tecnología deportiva.
-category: Tablas
+category: Accesorios
 price: 29345
-slug: pinamar
-tags: [home]
+slug: grip
+tags: [accesorios]
 sizes: [9,13,15,18]
 image: /assets/images/products/pinamar.jpeg
 ---

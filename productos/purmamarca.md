@@ -2,7 +2,7 @@
 name: Purmamarca
 description: Este fingerboard
 category: Tablas
-price:  8200
+price:  20000
 slug: purmamarca
 tags: [featured, home]
 colors: [white, blue, black]

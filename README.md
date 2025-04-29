@@ -1,4 +1,4 @@
-# Proyecto de Ecommerce para el Colegio Labarden 
+# Proyecto de Ecommerce  
 
 ## Requirements
 

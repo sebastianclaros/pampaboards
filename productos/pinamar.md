@@ -1,7 +1,7 @@
 ---
 name: pinamar
 description: Lo último en tecnología deportiva.
-category: Futurista
+category: Tablas
 price: 29345
 slug: pinamar
 tags: [home]

@@ -1,12 +1,12 @@
 ---
-name: carilo
+name: Salteña
 description: Lo último en tecnología deportiva.
 category: Tablas
 price: 30000
-slug: carilo
+slug: saltena   
 tags: [home]
 sizes: [9,13,15,18]
-image: /assets/images/products/pinamar.jpeg
+image: /assets/images/products/saltena.jpeg
 ---
 
 ## Tecnologia

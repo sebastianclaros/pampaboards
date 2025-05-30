@@ -13,9 +13,9 @@ function classNames(...classes: string[]) {
 
 // Not in Stock: 'cursor-not-allowed bg-gray-50 text-gray-200'
 const SizeSelector = (props: ISizeSelectorProps) => (
-    <RadioGroup value={props.selectedSize} onChange={props.setSize} className="mt-4">
+    <RadioGroup value={props.selectedSize} onChange={props.setSize} className="mt-8">
         <RadioGroup.Label className="sr-only">Choose a size</RadioGroup.Label>
-        <div className="grid grid-cols-4 gap-4 sm:grid-cols-8 lg:grid-cols-4">
+        <div className="grid grid-cols-2 gap-4 sm:grid-cols-8 lg:grid-cols-2">
         {props.sizes.map((size) => (
             <RadioGroup.Option
             key={size}

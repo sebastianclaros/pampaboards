@@ -1,6 +1,6 @@
 ---
 name: Salteña
-description: Lo último en tecnología deportiva.
+description: Esta es nuestra version mas tradicional, perfecta para los amantes de los diseños mas clasicos.
 category: Tablas
 price: 30000
 slug: saltena   
@@ -9,17 +9,7 @@ sizes: [9,13,15,18]
 image: /assets/images/products/saltena.jpeg
 ---
 
-## Tecnologia
+## Tabla
 
-Estos guantes son una revolución, todos los arqueros, incluyendo al "Dibu" estan pidiendo el suyo
+## Componentes
 
-## Materiales
-
-
-## Calidad
-
-Calidad superior, nunca vista en toda la historia de la humanidad :) 
-
-## Garantia
-
-Tienen garantia de por vida ! No importa cuantos años o siglos, tus guantes seran tan estaticos que nada los hara que cambien !

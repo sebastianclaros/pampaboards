@@ -83,7 +83,7 @@ const DisplayProduct = (props: IProductProps) => {
               )}
               { props.sizes.length > 0 && (
                 <>
-                  <h3 className="text-sm font-medium text-gray-900">Size</h3>
+                  <h3 className="text-sm font-medium text-gray-900">Modelo de Tabla</h3>
                   <SizeSelector selectedSize={selectedSize} setSize={setSize} sizes={props.sizes} ></SizeSelector>
                 </>
               )}

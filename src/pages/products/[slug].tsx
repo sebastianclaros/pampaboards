@@ -77,7 +77,7 @@ const DisplayProduct = (props: IProductProps) => {
               <p className="text-3xl text-center tracking-tight text-gray-900">$ {Number(props.price).toLocaleString(AppConfig.locale)}</p>
               { props.colors.length > 0 && (
                 <>
-                  <h3 className="text-sm font-medium text-gray-900">Color</h3>
+                  <h3 className="text-sm font-medium text-gray-900">Color de ruedas</h3>
                 <ColorSelector selectedColor={selectedColor} setColor={setColor} colors={props.colors} ></ColorSelector>
                 </>
               )}

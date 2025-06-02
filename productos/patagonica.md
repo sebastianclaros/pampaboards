@@ -2,7 +2,7 @@
 name: Patagonica
 description: Esta tabla es la version mas fuerte y dura, pensada para soportar el zonda patagonico.
 category: Tablas
-price:  20000
+price:  30000
 slug: patagonica
 tags: [featured, home]
 colors: [white, blue, black]

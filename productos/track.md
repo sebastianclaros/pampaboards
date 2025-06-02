@@ -1,12 +1,12 @@
 ---
-name: Track
-description: Lo último en tecnología deportiva.
+name: Truck
+description: Lo último en tecnología.
 category: Repuestos
-price: 29345
-slug: track
+price: 10000
+slug: truck
 tags: [repuestos]
 sizes: [9,13,15,18]
-image: /assets/images/products/pinamar.jpeg
+image: /assets/images/products/otra.jpeg
 ---
 
 ## Materiales

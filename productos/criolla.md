@@ -1,8 +1,8 @@
 ---
 name: Criolla
-description: Este fingerboard
+description: Esta tabla es la full, perfecta para los que quieren una tabla de calidad y tener los mejores componentes del mercado.
 category: Tablas
-price:  20000
+price:  40000
 slug: criolla
 tags: [featured, home]
 colors: [white, blue, black]

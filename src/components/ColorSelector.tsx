@@ -14,7 +14,7 @@ function classNames(...classes: string[]) {
 const ColorSelector = (props: IColorSelectorProps) => (
 
 <RadioGroup value={props.selectedColor} onChange={props.setColor} className="mt-4">
-    <RadioGroup.Label className="sr-only">Choose a color</RadioGroup.Label>
+    <RadioGroup.Label className="sr-only">Elige un color</RadioGroup.Label>
     <div className="flex items-center space-x-3">
     {props.colors.map((color) => (
         <RadioGroup.Option
